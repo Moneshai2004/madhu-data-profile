@@ -83,7 +83,7 @@ export default function Hero() {
               <div className="relative bg-white dark:bg-gray-900 rounded-full overflow-hidden h-64 w-64 md:h-80 md:w-80 border-4 border-white dark:border-gray-800">
                 {/* Replace with your actual photo */}
                 <img
-                  src="public/mine.jpg"
+                  src="mine.jpg"
                   alt="Madhumitha S"
                   className="w-full h-full object-cover"
                 />
